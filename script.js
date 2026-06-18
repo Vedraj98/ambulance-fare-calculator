@@ -9,8 +9,8 @@
 const distanceInput  = document.getElementById('distance-input');
 const errorMsg       = document.getElementById('error-msg');
 const errorText      = document.getElementById('error-text');
-const calculateBtn   = document.getElementById('calculate-btn');
-const resetBtn       = document.getElementById('reset-btn');
+const calculateBtn   = document.getElementById('btn-calcualte');
+const resetBtn       = document.getElementById('btn-reset');
 const resultSection  = document.getElementById('result-section');
 
 // Output fields
