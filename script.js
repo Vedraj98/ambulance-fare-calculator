@@ -18,7 +18,7 @@ const outDistance    = document.getElementById('out-distance');
 const outBaseFare    = document.getElementById('out-base-fare');
 const outExtraKm     = document.getElementById('out-extra-km');
 const outExtraCharge = document.getElementById('out-extra-charge');
-const outTotal       = document.getElementById('out-total');
+const outTotal       = document.getElementById('total-amount-value');
 
 // ── Pricing Constants ───────────────────────────────────────────
 const BASE_FARE       = 1200;   // ₹1200 for first 6 km
